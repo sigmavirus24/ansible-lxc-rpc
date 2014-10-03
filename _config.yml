@@ -3,8 +3,6 @@ title: Rackspace Private Cloud v9.0
 email: rcbops@rackspace.com
 description: >
   This is the un-official landing page for Rackspace Private Cloud v9.0
-baseurl: ""
-url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: rackspace
 github_username:  rcbops
 
