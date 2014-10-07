@@ -222,11 +222,11 @@ footer {
 }
 
 .content-section {
-    padding-bottom: $spacing-unit * 1.5;
+    padding-bottom: ($spacing-unit * 2) / 3;
     border-bottom: 1px solid $grey-color-light;
 
     + .content-section {
-        padding-top: $spacing-unit * 1.5;
+        padding-top: ($spacing-unit * 2) / 3;
     }
 }
 
