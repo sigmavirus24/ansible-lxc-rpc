@@ -257,7 +257,7 @@
 
     .col-3 {
         max-width: 225px;
-        margin: 0px 5px 5px 10px;
+        margin: 0px 14px 5px 14px;
 
         @include media-query($on-palm-lg) {
             margin-left: 20px
@@ -269,8 +269,8 @@
     }
 
     .col-2 {
-        max-width: 130px;
-        margin: 0 17px 0 30px;
+        max-width: 155px;
+        margin: 0 10px 0 20px;
 
         @include media-query($on-palm-lg) {
             margin-left: 20px
